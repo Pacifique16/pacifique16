@@ -96,8 +96,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pacifique16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="500px"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacifique16&theme=tokyonight&hide_border=false" height="500px"/>
 </p>
 
@@ -108,7 +106,5 @@
 <br>
 
 
-
-⭐ *"Code is not just written — it’s crafted."*
 
 
