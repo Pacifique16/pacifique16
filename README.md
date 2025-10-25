@@ -94,13 +94,13 @@
 
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacifique16&show_icons=true&locale=en&layout=compact" alt="pacifique" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pacifique16&show_icons=true&locale=en" alt="pacifique" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pacifique16&show_icons=true&locale=en" alt="pacifique" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacifique16&" alt="pacifique" /></p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacifique16&" alt="pacifique" />
 
-<br>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacifique16&show_icons=true&locale=en&layout=compact" alt="pacifique" /></p>
+
 
 
 
