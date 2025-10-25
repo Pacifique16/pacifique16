@@ -95,11 +95,11 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pacifique16&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="pacifique" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pacifique16&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="pacifique" />
 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pacifique16&theme=github_dark" alt="pacifique" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pacifique16&theme=github_dark" alt="pacifique" />
 
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacifique16&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="pacifique" /></p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pacifique16&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="pacifique" /></p>
 
 
 
