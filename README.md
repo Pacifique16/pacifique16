@@ -28,7 +28,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/pacifique-harerimana-90aaa4323/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/pacifique-harerimana/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://www.instagram.com/paccy__hapa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
 <a href="mailto:harerimanapacifique95@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" /></a>
 </p>
