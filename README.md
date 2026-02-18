@@ -2,8 +2,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pacifique16&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <a href="https://github.com/Pacifique16?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pacifique16?label=Follow&style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Pacifique16">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-%40Pacifique16-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
