@@ -1,8 +1,12 @@
 <h1 align="center">👋🏽 Hi there, I'm Pacifique HARERIMANA</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pacifique16&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=pacifique16&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://github.com/Pacifique16?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pacifique16?label=Follow&style=for-the-badge&logo=github"/>
+  </a>
 </p>
+
 
 <h3 align="center">💻 Software Developer | Building Scalable & User-Centered Solutions</h3>
 
@@ -75,7 +79,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
 ## 4. Tools
