@@ -1,12 +1,20 @@
 <h1 align="center">👋🏽 Hi there, I'm Pacifique HARERIMANA</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pacifique16&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <a href="https://github.com/Pacifique16">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-%40Pacifique16-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<p align="center">
+  <!-- Profile Views -->
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pacifique16&label=Profile%20Views&color=0e75b6"/>
+ 
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Pacifique16/pacifique16"/>
 
+  <img alt="Tests Coverage" src="https://img.shields.io/codecov/c/github/Pacifique16/pacifique16"/>
+
+  <img src="https://img.shields.io/github/stars/Pacifique16?label=Total%20Stars&logo=github"/>
+
+  <img alt="Forks" src="https://img.shields.io/github/forks/Pacifique16/RESTful-API"/>
+
+  <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16"/>
+  
+</p>
 
 <h3 align="center">💻 Software Developer | Building Scalable & User-Centered Solutions</h3>
 
