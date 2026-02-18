@@ -4,18 +4,27 @@
   <!-- Profile Views -->
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=pacifique16&label=Profile%20Views&color=0e75b6"/>
  
+  <!-- Contributors (per repo) --> 
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Pacifique16/pacifique16"/>
 
+  <!-- Tests Coverage -->
   <img alt="Tests Coverage" src="https://img.shields.io/codecov/c/github/Pacifique16/pacifique16"/>
 
-  <img alt="Total stars" src="https://img.shields.io/github/stars/Pacifique16?label=Total%20Stars&logo=github"/>
 
-  <img alt="Total Forks" src="https://img.shields.io/badge/Forks-5-blue?logo=github"/>
-
-  <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16?cacheSeconds=1"/>
+  <!-- Total Stars -->
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/Pacifique16?label=Total%20Stars&logo=github"/>
 
   
+  <!-- Total Forks -->
+  <img alt="Total Forks" src="https://img.shields.io/github/forks/Pacifique16?label=Total%20Forks&logo=github"/>
+
+  <!-- License -->
+  <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16?cacheSeconds=1"/>
 </p>
+
+
+
+
 
 <h3 align="center">💻 Software Developer | Building Scalable & User-Centered Solutions</h3>
 
@@ -109,8 +118,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pacifique16&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="pacifique" /></p>
    
-<p><img align="center" src="https://streak-stats.demolab.com?user=Pacifique16&theme=github-dark" alt="pacifique" /></p>
-  
+<p>
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Pacifique16&theme=github-dark&cacheSeconds=1"/>
+</p>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pacifique16&show_icons=true&theme=github_dark&locale=en&layout=compact"  alt="pacifique"/>
 </p>
 
