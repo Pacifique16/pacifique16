@@ -12,7 +12,8 @@
 
   <img alt="Total Forks" src="https://img.shields.io/badge/Forks-5-blue?logo=github"/>
 
-  <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16"/>
+  <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16?cacheSeconds=1"/>
+
   
 </p>
 
