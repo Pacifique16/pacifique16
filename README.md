@@ -8,9 +8,9 @@
 
   <img alt="Tests Coverage" src="https://img.shields.io/codecov/c/github/Pacifique16/pacifique16"/>
 
-  <img src="https://img.shields.io/github/stars/Pacifique16?label=Total%20Stars&logo=github"/>
+  <img alt="Total stars" src="https://img.shields.io/github/stars/Pacifique16?label=Total%20Stars&logo=github"/>
 
-  <img alt="Forks" src="https://img.shields.io/github/forks/Pacifique16/RESTful-API"/>
+  <img alt="Total Forks" src="https://img.shields.io/badge/Forks-5-blue?logo=github"/>
 
   <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16"/>
   
