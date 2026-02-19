@@ -19,7 +19,7 @@
   <img alt="Total Forks" src="https://img.shields.io/github/forks/Pacifique16?label=Total%20Forks&logo=github"/>
 
   <!-- License -->
-  <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16?cacheSeconds=1"/>
+  <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16"/>
 </p>
 
 
