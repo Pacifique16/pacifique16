@@ -116,13 +116,16 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pacifique16&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="pacifique" /></p>
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Pacifique16&theme=github_dark&hide_border=false&show_icons=true&locale=en" alt="pacifique" />
+</p>
    
 <p align="center">
         <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Pacifique16&theme=github-dark&hide_border=false")/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pacifique16&show_icons=true&theme=github_dark&locale=en&layout=compact"  alt="pacifique"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pacifique16&show_icons=true&theme=github_dark&locale=en&layout=compact"  alt="pacifique"/>
 </p>
 
 
