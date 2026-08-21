@@ -7,16 +7,8 @@
   <!-- Contributors (per repo) --> 
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Pacifique16/pacifique16"/>
 
-  <!-- Tests Coverage -->
-  <img alt="Tests Coverage" src="https://img.shields.io/codecov/c/github/Pacifique16/pacifique16"/>
-
-
   <!-- Total Stars -->
   <img alt="Total Stars" src="https://img.shields.io/github/stars/Pacifique16?label=Total%20Stars&logo=github"/>
-
-  
-  <!-- Total Forks -->
-  <img alt="Total Forks" src="https://img.shields.io/github/forks/Pacifique16?label=Total%20Forks&logo=github"/>
 
   <!-- License -->
   <img alt="License" src="https://img.shields.io/github/license/Pacifique16/pacifique16"/>
